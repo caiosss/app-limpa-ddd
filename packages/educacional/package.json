@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "shared":"*"
+  },
   "devDependencies": {
     "jest": "^29.7.0",
     "ts-jest": "^29.3.4",
