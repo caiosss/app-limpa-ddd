@@ -1,5 +1,5 @@
 import Id from "./Id"
-import { Entidade } from "./Entidade"
+import Entidade, { EntidadeProps } from "./Entidade"
 
-export type { Entidade }
-export { Id }
+export type { EntidadeProps }
+export { Id, Entidade }
